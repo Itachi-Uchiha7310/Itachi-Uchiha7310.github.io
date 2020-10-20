@@ -1,0 +1,19 @@
+{
+  "reponame":"Pokemon Yellow",
+  "repologo":"https://example.com/icon.png",
+  "repoauthor":"Itachi Uchiha",
+  "repodesc":"Pokemon Yellow Rom",
+  "categories":[
+    {
+      "categoryname":"Pokemon Yellow",
+      "games":[
+        {
+          "name":"Game Name",
+          "link":"https://example.com/game.gba",
+          "boxart":"Game Boxart",
+          "system":"GBA"
+        }
+      ]
+    }
+  ]
+}
